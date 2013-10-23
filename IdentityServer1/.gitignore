@@ -9,8 +9,6 @@ build/
 *.csproj.user
 *.pubxml.user
 *.sdf
-*.mdf
-*.ldf
 _ReSharper.*
 *.resharper
 PublishProfiles
